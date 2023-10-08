@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Development...
 - 🌱 I’m currently learning ReactJS, Rest API's and AWS
 - 👨‍💻 All of my projects are available at https://chandan-nl.github.io/portfolio/
-- 📄 Know about my experiences https://docs.google.com/document/d/15uGLZojsBawB_8tbUnHoJ7BVkBz8hFyKXCmvgCK3YNs/edit?usp=sharing
+- 📄 Know about my experiences: <a href="https://docs.google.com/document/d/15uGLZojsBawB_8tbUnHoJ7BVkBz8hFyKXCmvgCK3YNs/edit?usp=sharing">Resume<a>
 - 📫 How to reach me : Chandan_NL@outlook.com
 
 <!---
